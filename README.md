@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there I'm Khadija!👋
+I have a background in data science and analytics, and I’m currently expanding into DevOps engineering. I’m focused on how to design, automate, and manage reliable infrastructure and deployment pipelines for modern applications.
 
-<!--
-**KhadijaHdd/KhadijaHdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# What I’m working on
+Learning and practicing DevOps
+Building hands-on projects with CI/CD pipelines
+Containerizing applications using Docker
+Strengthening Linux and cloud skills
 
-Here are some ideas to get you started:
+# Tools of the Trade
+Data Science: Python (Pandas, Scikit-learn), SQL, Tableau/PowerBI
+DevOps : Docker, GitHub Actions, Linux
+Currently Learning: AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# How to reach me
+Email: khadijahaddaoui1919@gmail.com
+Portfolio: https://khadijahdd.github.io/KhadijaHaddaoui.github.io/
