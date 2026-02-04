@@ -3,4 +3,3 @@ I have a background in data science and analytics, and I’m currently expanding
 
 ### How to reach me
 Email: khadijahaddaoui1919@gmail.com
-Portfolio: https://khadijahdd.github.io/KhadijaHaddaoui.github.io/
